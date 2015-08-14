@@ -5,8 +5,8 @@ plain text
 ####even smaller
 #######Wow
 
-*option 1
-*option 2
-*option 3
+* option 1
+* option 2
+* option 3
 
 back on text
