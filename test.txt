@@ -1,1 +1,3 @@
-This is a text file created locally then added, committed and pushed
+This is a text file created locally then added, committed and pushe
+d and this is another partial line added.
+
